@@ -1,0 +1,46 @@
+.header-bg{
+    background-color:#2F4F4F;
+}
+.header-p p{
+    color:white;
+}
+.feature-font{
+    font-size:50px;
+}
+.Images-gray img{
+    width:75%;
+    padding-bottom:16px;
+}
+.gray-img{
+    filter:grayscale(100%);
+}
+.latest-font{
+    font-size:50px;
+}
+.card-p p{
+    color:gray;
+}
+.client-icon i{
+    color:#FF8C00;
+}
+.client-img{
+    padding-top:26px;
+    width:200px;
+    header:200px;
+}
+.client-img-3{
+    border-radius:50%;
+}
+.extra-img{
+    white:300px;
+    width:300px;
+}
+.subscribe-part{
+    background-color:#FFEBCD;
+}
+.racing-part{
+    background-color:#FFFAFA;
+}
+.footer-font i{
+    font-size:30px;
+}
